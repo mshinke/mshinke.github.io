@@ -1,0 +1,3 @@
+[submodule "machan"]
+	path = machan
+	url = git@github.com:mshinke/machan.git
